@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  host: localhost
+  username: postgres
+  password: 123456789
+  database: quote-editor_development
+  pool: 5
+  
