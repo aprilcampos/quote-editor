@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This ongoing application is a single-page, reactive quote editor. It was build with Ruby on Rails 7 and Turbo.
 
-Things you may want to cover:
+Preview:
+![image](https://github.com/user-attachments/assets/631dcf64-eff2-4803-bef3-3e27b38c79ad)
+
+![image](https://github.com/user-attachments/assets/e1dbee96-9892-4c21-a920-076efd530ae6)
+
 
 * Ruby version
+  - 3.1.2
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Relational Database
+  - [PostgreSQL](https://www.postgresql.org/)
