@@ -1,4 +1,4 @@
-# README
+# Quote Editor (Ruby on Rails 7 and Turbo)
 
 This ongoing application is a single-page, reactive quote editor. It was build with Ruby on Rails 7 and Turbo.
 
