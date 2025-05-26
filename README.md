@@ -1,6 +1,6 @@
-# Quote Editor (Ruby on Rails 7 and Turbo)
+# Quote Editor (Ruby on Rails 7 and Hotwire)
 
-This ongoing application is a single-page, reactive quote editor. It was build with Ruby on Rails 7 and Turbo.
+This ongoing application is a single-page, reactive quote editor. It was build with Ruby on Rails 7 and Hotwire (Turbo + Stimulus).
 
 Preview:
 ![image](https://github.com/user-attachments/assets/631dcf64-eff2-4803-bef3-3e27b38c79ad)
